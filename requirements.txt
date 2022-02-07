@@ -1,0 +1,10 @@
+fastapi==0.61.2
+uvicorn==0.12.2
+
+SQLAlchemy~=1.4.20
+pydantic~=1.8.2
+passlib~=1.7.4
+geojson~=2.5.0
+Shapely~=1.7.1
+GeoAlchemy2~=0.9.1
+alembic~=1.6.5

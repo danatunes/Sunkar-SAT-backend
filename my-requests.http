@@ -1,0 +1,13 @@
+
+###
+POST http://localhost:8000/api/v1/login/access-token
+Content-Type: application/json
+
+{
+  "grant_type": "",
+  "username": "maga@example.com",
+  "password": "maga123",
+  "scope": "",
+  "client_id": "",
+  "client_secret": ""
+}
